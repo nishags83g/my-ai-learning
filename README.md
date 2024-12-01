@@ -13,3 +13,5 @@ Links to all the reading materials shared in class
      IIML: PostCourseReading3 - https://drive.google.com/file/d/1TaRG9gDYIOM0Jm7TOjnW8SmJxSkNYl5A/view?usp=drive_link
      IIML: Module 1 PPT - https://drive.google.com/file/d/1NrDdCVub0dUyy9l_jnciTVWGw42weJjw/view?usp=drive_link
      Gartner: 2025 Gartner Trends - https://drive.google.com/file/d/1GS1vv_s00STmLbFjKlM4any7GPHwBpIn/view?usp=drive_link
+     Introduction to linear regression: https://onlinestatbook.com/2/regression/intro.html
+     Liner Regression: https://www.biostathandbook.com/linearregression.html
