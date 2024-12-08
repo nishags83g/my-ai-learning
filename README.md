@@ -15,3 +15,5 @@ Links to all the reading materials shared in class
      Gartner: 2025 Gartner Trends - https://drive.google.com/file/d/1GS1vv_s00STmLbFjKlM4any7GPHwBpIn/view?usp=drive_link
      Introduction to linear regression: https://onlinestatbook.com/2/regression/intro.html
      Liner Regression: https://www.biostathandbook.com/linearregression.html
+     Decision Trees:https://machinelearning-basics.com/cart-algorithm-and-everything-you-need-to-know-about-decision-trees-1-2/
+     CART:https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/
