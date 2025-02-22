@@ -1,5 +1,6 @@
 This repository documents all my learnings on AI
 Links to all the reading materials shared in class
+     LLM: https://www.youtube.com/watch?v=7xTGNNLPyMI&t=6s
      Management in the 1980's - https://hbr.org/1958/11/management-in-the-1980s
      HBR:Building the AI powered organisation -  https://drive.google.com/file/d/1A4pH-wrCs9lEkiXpSFMRdeDzulx-VrBc/view?usp=drive_link
      HBR:Competing in the Age of AI - https://drive.google.com/file/d/1ZAh6ddT2AoZyxPSoC9cPRcvumrX-7oc6/view?usp=sharing
@@ -17,4 +18,4 @@ Links to all the reading materials shared in class
      Liner Regression: https://www.biostathandbook.com/linearregression.html
      Decision Trees:https://machinelearning-basics.com/cart-algorithm-and-everything-you-need-to-know-about-decision-trees-1-2/
      CART:https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/
-     LLM: https://www.youtube.com/watch?v=7xTGNNLPyMI&t=6s
+    
